@@ -1,0 +1,664 @@
+{
+"displayFieldName": "IDENTIFIER",
+"fieldAliases": {
+"IDENTIFIER": "Identifier",
+"PARKHAUS": "Parkhaus",
+"KAPAZITAET": "Kapazität",
+"TENDENZ": "TENDENZ"
+},
+"geometryType": "esriGeometryPoint",
+"spatialReference": {
+"wkid": 4258,
+"latestWkid": 4258
+},
+"fields": [
+{
+"name": "IDENTIFIER",
+"type": "esriFieldTypeString",
+"alias": "Identifier",
+"length": 255
+},
+{
+"name": "PARKHAUS",
+"type": "esriFieldTypeString",
+"alias": "Parkhaus",
+"length": 255
+},
+{
+"name": "KAPAZITAET",
+"type": "esriFieldTypeInteger",
+"alias": "Kapazität"
+},
+{
+"name": "TENDENZ",
+"type": "esriFieldTypeSmallInteger",
+"alias": "TENDENZ"
+}
+],
+"features": [
+{
+"attributes": {
+"IDENTIFIER": "D_P003",
+"PARKHAUS": null,
+"KAPAZITAET": 634,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9835133222035,
+"y": 50.938070468774
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH08",
+"PARKHAUS": null,
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9446990644397,
+"y": 50.944858434604
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH07",
+"PARKHAUS": "Im Klapperhof",
+"KAPAZITAET": 121,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9441022354946,
+"y": 50.94208004413
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH09",
+"PARKHAUS": "Philharmonie",
+"KAPAZITAET": 265,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9614107915603,
+"y": 50.940454921949
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH10",
+"PARKHAUS": "Cäcilienstraße",
+"KAPAZITAET": 221,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9513660318013,
+"y": 50.934957685307
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH11",
+"PARKHAUS": "Galeria Kaufhof",
+"KAPAZITAET": 701,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9549356496049,
+"y": 50.935512139849
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH12",
+"PARKHAUS": "Hohe Straße",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.956969426138,
+"y": 50.938818322033
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH14",
+"PARKHAUS": "Theater-Parkhaus",
+"KAPAZITAET": 200,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9498329955019,
+"y": 50.937197867911
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH15",
+"PARKHAUS": "Opernpassagen",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9522635846511,
+"y": 50.938733309515
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH16",
+"PARKHAUS": "Maritim",
+"KAPAZITAET": 250,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9621927836308,
+"y": 50.935596356231
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH17",
+"PARKHAUS": "Am Neumarkt",
+"KAPAZITAET": 104,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9473120749781,
+"y": 50.934765505168
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH18",
+"PARKHAUS": "Alte Wallgasse",
+"KAPAZITAET": 0,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9424662370438,
+"y": 50.939834944491
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH19",
+"PARKHAUS": "Gürzenich",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9578148716144,
+"y": 50.936952558885
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH20",
+"PARKHAUS": "Galeria Karstadt",
+"KAPAZITAET": 183,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9479966003791,
+"y": 50.938493006043
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH21",
+"PARKHAUS": "Kreissparkasse",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9473746831007,
+"y": 50.937201409194
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH22",
+"PARKHAUS": "Heumarkt",
+"KAPAZITAET": 65,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9616086276332,
+"y": 50.936458695559
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH23",
+"PARKHAUS": "Lungengasse",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9461361828018,
+"y": 50.934757900476
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH24",
+"PARKHAUS": "Wolfsstraße",
+"KAPAZITAET": 86,
+"TENDENZ": 1
+},
+"geometry": {
+"x": 6.9469644789811,
+"y": 50.937915083986
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH25",
+"PARKHAUS": "Bazaar de Cologne",
+"KAPAZITAET": 59,
+"TENDENZ": 2
+},
+"geometry": {
+"x": 6.9436098712696,
+"y": 50.937536974373
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH26",
+"PARKHAUS": "DuMont-Carré",
+"KAPAZITAET": 232,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9503004467856,
+"y": 50.939400441073
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH27",
+"PARKHAUS": "Sparkasse KölnBonn",
+"KAPAZITAET": 78,
+"TENDENZ": 2
+},
+"geometry": {
+"x": 6.9413430495362,
+"y": 50.93512012092
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH28",
+"PARKHAUS": "P+R Stadion",
+"KAPAZITAET": 380,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.874751228488,
+"y": 50.937498145559
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH34",
+"PARKHAUS": null,
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 7.0774615474986,
+"y": 50.948819109922
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "D_P001",
+"PARKHAUS": "LANXESS arena 1",
+"KAPAZITAET": 1119,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9833329558643,
+"y": 50.938961932268
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH29",
+"PARKHAUS": "Kaiser-Wilhelm-Ring",
+"KAPAZITAET": 470,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9418557264947,
+"y": 50.943669087684
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH30",
+"PARKHAUS": "Rudolfplatz",
+"KAPAZITAET": 128,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9382153635307,
+"y": 50.935998350898
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH31",
+"PARKHAUS": "An Farina",
+"KAPAZITAET": 79,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.957707484662,
+"y": 50.938337727929
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH32",
+"PARKHAUS": "Zoo/Flora",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9750651613406,
+"y": 50.957234672796
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH33",
+"PARKHAUS": "Mediapark",
+"KAPAZITAET": 46,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9445472822496,
+"y": 50.947637036798
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH35",
+"PARKHAUS": "Gerling Ring Karree",
+"KAPAZITAET": 53,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9408824061594,
+"y": 50.941262592717
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH36",
+"PARKHAUS": "P+R Marsdorf",
+"KAPAZITAET": 515,
+"TENDENZ": 1
+},
+"geometry": {
+"x": 6.8483183597997,
+"y": 50.916252642632
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH37-1",
+"PARKHAUS": "Rheinauhafen Museen",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9629598573074,
+"y": 50.931409990224
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH37-2",
+"PARKHAUS": "Rheinauhafen Bayenturm",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9639700487528,
+"y": 50.927293521788
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH37-3",
+"PARKHAUS": "Rheinauhafen Oberländer Wall",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9684058903415,
+"y": 50.921036162375
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "W_P001",
+"PARKHAUS": "Stadion P1 - nur bei Veranstaltungen geöffnet",
+"KAPAZITAET": 197,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.8841564936308,
+"y": 50.939818411048
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "W_P003",
+"PARKHAUS": "Stadion P3  - nur bei Veranstaltungen geöffnet",
+"KAPAZITAET": 0,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.869058667277,
+"y": 50.93892502667
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "W_P004",
+"PARKHAUS": "Stadion P4 - nur bei Veranstaltungen geöffnet",
+"KAPAZITAET": 417,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.8733040228654,
+"y": 50.939225935799
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "W_P006",
+"PARKHAUS": "Stadion P6 - nur bei Veranstaltungen geöffnet",
+"KAPAZITAET": 684,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.8680070835227,
+"y": 50.927534449508
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "W_P007",
+"PARKHAUS": "Stadion P7 - nur bei Veranstaltungen geöffnet",
+"KAPAZITAET": 488,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.8683022070552,
+"y": 50.925815299455
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "W_P08W",
+"PARKHAUS": "Stadion P8 PKW - nur bei Veranstaltungen geöffnet",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.8672853225813,
+"y": 50.923908142879
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "W_P08o",
+"PARKHAUS": "Stadion P8 Bus - nur bei Veranstaltungen geöffnet",
+"KAPAZITAET": 36,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.8688680063616,
+"y": 50.924121100435
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH13",
+"PARKHAUS": "Schildergasse",
+"KAPAZITAET": -1,
+"TENDENZ": -1
+},
+"geometry": {
+"x": 6.9511556847312,
+"y": 50.935622642381
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "D_P002",
+"PARKHAUS": "LANXESS arena 2",
+"KAPAZITAET": 99,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9802124264528,
+"y": 50.938736483894
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "D_P004",
+"PARKHAUS": "LANXESS arena 4",
+"KAPAZITAET": 165,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9851099157387,
+"y": 50.93889301039
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "D_P006",
+"PARKHAUS": "Köln Arcaden",
+"KAPAZITAET": 0,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.99758595913,
+"y": 50.938166761925
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH01",
+"PARKHAUS": "Hauptbahnhof",
+"KAPAZITAET": 262,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9600578052561,
+"y": 50.943542812224
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH02",
+"PARKHAUS": "Am Dom",
+"KAPAZITAET": 140,
+"TENDENZ": 1
+},
+"geometry": {
+"x": 6.9596401539269,
+"y": 50.940296956501
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH03",
+"PARKHAUS": "Groß Sankt Martin",
+"KAPAZITAET": 122,
+"TENDENZ": 1
+},
+"geometry": {
+"x": 6.9604378359559,
+"y": 50.939874386219
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH04",
+"PARKHAUS": "Brückenstraße",
+"KAPAZITAET": 347,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.955146608644,
+"y": 50.937442399658
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH05",
+"PARKHAUS": "REWE",
+"KAPAZITAET": 140,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9566578451201,
+"y": 50.935551969417
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH06",
+"PARKHAUS": "Maastrichter Straße",
+"KAPAZITAET": 177,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9379774159288,
+"y": 50.938607761777
+}
+},
+{
+"attributes": {
+"IDENTIFIER": "PH38",
+"PARKHAUS": "Rhein Triadem",
+"KAPAZITAET": 542,
+"TENDENZ": 0
+},
+"geometry": {
+"x": 6.9617373040871,
+"y": 50.944105491975
+}
+}
+]
+}
